@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Ichataunt
+## Notes: Taunt tracker with cooldown timers and countdown bars
+## Version: 1.1
+## Author: ICHataunt Team
+## SavedVariables: ICHatauntDB
+
+ICHataunt_Spells.lua
+Ichataunt-addon.lua
