@@ -1,4 +1,4 @@
-# ICHataunt - Taunt Tracker for Turtle WoW
+# ICHAtaunt - Taunt Tracker for Turtle WoW
 
 A comprehensive taunt tracking addon for Turtle WoW (1.12 client) that monitors taunt cooldowns across your raid or party, helping coordinate threat management.
 
