@@ -220,7 +220,8 @@ A: Enable debug mode (`/it debug`), reproduce the issue, and share the output.
 
 ## Credits
 
-**Author**: ICHataunt Team  
+**Author**: Vibe-coded with Claude
+**Dreamers** Ichabaddie and Cinos (Oathsworn)
 **Version**: 1.1  
 **For**: Turtle WoW (1.12 client)  
 **License**: Free to use and modify
