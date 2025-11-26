@@ -205,7 +205,11 @@ A: Enable debug mode (`/it debug`), reproduce the issue, and share the output.
 
 ## Version History
 
-### v1.1 (Current)
+### v1.1.1 (Current)
+- ✅ Fixed panel spacing alignment in configuration UI
+- ✅ Left and right panels now have consistent content positioning
+
+### v1.1
 - ✅ Removed debug chatter (now optional via `/it debug`)
 - ✅ Added scrolling to raid/party panels (supports 40-player raids)
 - ✅ Fixed spell cooldowns (Challenging Shout: 10min, Mocking Blow: 2min)
@@ -221,7 +225,7 @@ A: Enable debug mode (`/it debug`), reproduce the issue, and share the output.
 ## Credits
 
 **Author**: ICHataunt Team  
-**Version**: 1.1  
+**Version**: 1.1.1  
 **For**: Turtle WoW (1.12 client)  
 **License**: Free to use and modify
 

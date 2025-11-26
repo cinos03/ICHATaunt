@@ -972,7 +972,7 @@ local function ShowTaunterPopup()
             f.rightElements = {}
             
             -- LEFT PANEL: Show all group members with + buttons
-            local yOffset = -35
+            local yOffset = -5
             local allMembers = {}
             
             -- Get all group members
@@ -1093,7 +1093,7 @@ local function ShowTaunterPopup()
             end
             
             -- Update left scroll child height
-            local leftContentHeight = math.abs(yOffset) + 35
+            local leftContentHeight = math.abs(yOffset) + 5
             f.leftScrollChild:SetHeight(math.max(leftContentHeight, 1))
             
             -- RIGHT PANEL: Show taunt order with - buttons
